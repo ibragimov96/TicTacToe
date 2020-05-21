@@ -34,11 +34,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
-//        int id = item.getItemId();
-//        switch (id) {
-//            case R.id.about_developer:
-//                Intent intent
-//        }
+
         Intent intent = new Intent(MainActivity.this, DeveloperActivity.class);
         startActivity(intent);
         return super.onOptionsItemSelected(item);
@@ -146,8 +142,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private void updatePointsText() {
-        textViewPlayer1.setText("Player 1: " + player1Points);
-        textViewPlayer2.setText("Player 2: " + player2Points);
+        textViewPlayer1.setText(": " + player1Points);
+        textViewPlayer2.setText(": " + player2Points);
     }
 
     private void resetBoard() {
