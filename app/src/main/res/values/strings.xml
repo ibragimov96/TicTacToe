@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="player_1">Player 1: 0</string>
+    <string name="player_2">Player 2: 0</string>
+    <string name="reset_game">reset</string>
+    <string name="player_1_wins">Player 1 wins!</string>
+    <string name="player_2_wins">Player 2 wins!</string>
+    <string name="draw">Draw!</string>
+    <string name="about_dev">About developer</string>
+    <string name="about">Greetings, here you can find out about me!</string>
+    <string name="nam_sur">Ibragimov Diyorbek</string>
+</resources>

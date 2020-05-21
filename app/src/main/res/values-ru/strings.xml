@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="player_1">Игрок 1: 0</string>
+    <string name="player_2">Игрок 2: 0</string>
+    <string name="reset_game">сброс</string>
+    <string name="player_1_wins">Игрок 1 выиграл!</string>
+    <string name="player_2_wins">Игрок 2 выиграл!</string>
+    <string name="draw">Ничья!</string>
+    <string name="about_dev">О разработчике</string>
+    <string name="about">Приветствую, здесь вы можете узнать обо мне</string>
+    <string name="nam_sur">Ибрагимов Диёрбек</string>
+</resources>
